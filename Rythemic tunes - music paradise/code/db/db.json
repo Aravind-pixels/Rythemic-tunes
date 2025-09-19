@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Blinding Lights",
+      "singer": "The Weeknd",
+      "genre": "Pop",
+  "imgUrl": "Songs/blinding_lights.png",
+      "songUrl": "Songs/Blinding Lights.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Shape of You",
+      "singer": "Ed Sheeran",
+      "genre": "Pop",
+  "imgUrl": "Songs/shape_of_you.png",
+      "songUrl": "Songs/Shape of You.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Levitating",
+      "singer": "Dua Lipa",
+      "genre": "Pop",
+  "imgUrl": "Songs/levitating.png",
+      "songUrl": "Songs/Levitating.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Uptown Funk",
+      "singer": "Mark Ronson ft. Bruno Mars",
+      "genre": "Funk",
+  "imgUrl": "Songs/uptown_funk.png",
+      "songUrl": "Songs/Uptown Funk.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Dance Monkey",
+      "singer": "Tones and I",
+      "genre": "Alternative",
+  "imgUrl": "Songs/dance_monkey.png",
+      "songUrl": "Songs/Dance Monkey.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "singer": "B Praak",
+      "id": 6
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 6,
+      "title": "Tum Hi Ho",
+      "imgUrl": "https://lyrichindi.com/wp-content/uploads/2023/09/desktop-wallpaper-meri-aashiqui-tum-hi-ho-tum-hi-ho.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Tum Hi Ho.mp3",
+      "singer": "Arijit Singh",
+      "id": 4
+    },
+    {
+      "itemId": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3",
+      "singer": "B Praak",
+      "id": 6
+    },
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 7
+    }
+  ]
+}
